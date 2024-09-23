@@ -1,2 +1,2 @@
 # html-portfolio
-Gizem Bunar's first Portfolio
+Gizem's first Portfolio
